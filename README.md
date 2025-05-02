@@ -34,7 +34,7 @@ You have two options to run the game on Windows:
 1. Navigate to:
 
    ```
-   /Flappy install/FlappyInstall.exe
+   /Flappy Install/FlappyInstall.exe
    ```
 2. Run the installer (built with **Inno Setup**).
 3. Launch **Flappy Jet** from your Start menu or desktop shortcut.
